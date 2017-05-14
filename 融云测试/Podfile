@@ -1,0 +1,8 @@
+
+# platform :ios, '8.0'
+
+target '融云测试' do
+pod 'AFNetworking'
+pod 'RongCloudIM/IMLib'
+pod 'RongCloudIM/IMKit'
+end
